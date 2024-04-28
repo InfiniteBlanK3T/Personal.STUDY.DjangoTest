@@ -75,7 +75,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
+        'ENGINE': 'django.db.backends.sqlite3', # NOTES: change here to use another backend DB engine
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Australia/Melbourne'
 
 USE_I18N = True
 
