@@ -1,7 +1,6 @@
-## Django Test Project in WSL2
+## Django Test Project in WSL2 - (POLL SYSTEM)
 
-# Polls System
-
+![image](https://github.com/InfiniteBlanK3T/Personal.STUDY.DjangoTest/assets/94949422/22bdf2f5-33e4-4896-a8d1-e56084b99ee3)
 # Todoos
 - [x] Setting FrontEnd & BackEnd
 - [x] Building up a database SQLite 
