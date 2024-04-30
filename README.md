@@ -1,9 +1,10 @@
-# Django Project Test in WSL2
+## Django Test Project in WSL2
 
+# Polls System
 
-# Planning
+# Todoos
 - [x] Setting FrontEnd & BackEnd
-- [x] Building up a database (atm for testing just SQLite cause EZ built-in DBs)
+- [x] Building up a database SQLite 
 - [x] Hooking up to database
 - [x] Design and migration to database 
 - [ ] Building APIs from Backend to DB and show the models in Frontend
@@ -15,5 +16,6 @@
 - [ ] Deployment with K8s
 
 # Links
-- Django Official Documents [https://docs.djangoproject.com/en/5.0/]
-- 
+- [Django Official Documents](https://docs.djangoproject.com/en/5.0/)
+- [WLS2 - Microsoft Official Documents](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
+- [Docker Docs](https://docs.docker.com/)
